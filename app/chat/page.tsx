@@ -1,10 +1,10 @@
-import {ChatRoom} from '@/components/chat-room'
+import { ChatApp } from '@/components/chat-app'
 
 
 export default function Page() { 
     return ( 
         <> 
-            <ChatRoom />
+            <ChatApp />
         </>
     )
 }
